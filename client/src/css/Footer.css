@@ -1,0 +1,13 @@
+footer {
+  position: fixed;
+  height: 60px;
+  bottom: 0;
+  background-color: #ecad17;
+  justify-content: center;
+  width: 100%;
+}
+
+.footer-content {
+  text-align: center;
+  font-size: 38px;
+}
